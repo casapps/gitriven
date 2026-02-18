@@ -1,6 +1,6 @@
 # gitriven — Complete Project Specification
 
-**Version:** 2.0.0
+**Version:** 1.0.0
 **Date:** 2026-02-13
 **Author:** Jason Hempstead
 **Organization:** casapps
